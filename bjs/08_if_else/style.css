@@ -1,4 +1,14 @@
 .game-card {
-    height: 100vh;
-    font-family: 'Open Sans', monospace;
+  height: 100vh;
+  font-family: 'Open Sans', monospace;
+}
+
+.card-header {
+  background-color: darkseagreen;
+}
+.card-body {
+  background-color: rgb(199, 245, 199);
+}
+.card-footer {
+  background-color: lightgreen;
 }
